@@ -4,7 +4,7 @@
 
 - [x] Project setup
 - [x] Player creation
-- [] Gravity
+- [x] Gravity
 - [] Player movement
 - [] Platforms
 - [] "Scroll" the background
