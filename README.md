@@ -3,7 +3,7 @@
 ## Requirements
 
 - [x] Project setup
-- [] Player creation
+- [x] Player creation
 - [] Gravity
 - [] Player movement
 - [] Platforms
